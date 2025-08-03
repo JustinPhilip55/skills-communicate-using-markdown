@@ -10,3 +10,7 @@
 ```javascript
 var myVar = "Hello world!";
 ```
+
+- [ ] Add header
+- [ ] Add image
+- [ ] Add code block
